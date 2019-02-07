@@ -1,7 +1,7 @@
 //create jar, name jar, place string in jar
-var firstName = "Lucas";
+//var firstName = "Marco";
 
-//alert is method (built in function in JS)
+//alert is method(built in function in JS)
 //alert("Hello" + firstName);
 
 //modern JS
@@ -9,4 +9,4 @@ var firstName = "Lucas";
 
 //console.log("Hello" + firstName);
 
-console.log("javascript linked up");
+console.log("Java Script Linked Up");
